@@ -25,11 +25,11 @@
 
 
 
-- 🌱 I’m currently learning **web 3.0, metaverse, Gen-AI**
+- 🌱Currently exploring **Agentic AI**, **OpenAI SDK**, and **DevOps tools** like *Docker, Kubernetes, Jenkins, Dapr*  
 
 - 📫 How to reach me **muezae049@gmail.com**
 
-- ⚡ Fun fact **Descent in everything**
+- ⚡ Fun fact: I enjoy building, breaking, and fixing things — that’s my kind of fun!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
