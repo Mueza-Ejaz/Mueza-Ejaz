@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/Mueza-Ejaz/Mueza-Ejaz/main/software-testing-banner-web-icon-vector-illustration-concept-2X83EEY1.jpg)
+![logo](https://raw.githubusercontent.com/Mueza-Ejaz/Mueza-Ejaz/main/banner.jpg)
+<br><br>
 
 
 <h1 align="center">Hi 👋, I'm Mueza Ejaz</h1>
@@ -12,8 +13,7 @@
   <li>✔️ Skilled in frontend development (HTML5, CSS, Tailwind CSS, TypeScript, React.js, Next.js)</li>
   <li>✔️ Comfortable working with Python and integration tools</li>
 </ul>
-
-
+<br>
 
 <img align="right" alt="qa debug gif" width="400px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -31,6 +31,7 @@
 - 📫 How to reach me **muezae049@gmail.com**
 
 - ⚡ Fun fact: I enjoy building, breaking, and fixing things — that’s my kind of fun!
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,7 +85,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mueza-ejaz&show_icons=true&locale=en&layout=compact" alt="mueza-ejaz" /></p>
