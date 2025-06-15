@@ -1,4 +1,5 @@
-![logo](https://github.com/Mueza-Ejaz/Mueza-Ejaz/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
+![logo](https://raw.githubusercontent.com/Mueza-Ejaz/Mueza-Ejaz/main/software-testing-banner-web-icon-vector-illustration-concept-2X83EEY1.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Mueza Ejaz</h1>
 <h3 align="center">Currently working on expanding my QA, DevOps, and AI skills:</h3>
